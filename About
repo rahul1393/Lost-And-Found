@@ -1,0 +1,5 @@
+This project was realized in the beginning of my game development journey. This is developed solely on C++ using the OpenGL library. It is solo developed project to understand the different concepts of computer graphics.
+
+This game is centered in a dark 3d space, different objects are placed at a random location in this 3D space. The player must locate the objects with the help of a torch light.
+
+The focus while creating the project was on camera movement based on the user input and creating point and spot lighting.
